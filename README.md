@@ -1,1 +1,1 @@
-# connect4
+connect 4
